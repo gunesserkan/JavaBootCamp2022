@@ -11,8 +11,6 @@ public class Main {
 				System.out.println("Mükemmel : Geçtiniz");
 				break;
 			case 'B':
-				System.out.println("Çok güzel : Geçtiniz");
-				break;
 			case 'C':
 				System.out.println("İyi : Geçtiniz");
 				break;
