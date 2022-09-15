@@ -1,4 +1,4 @@
-package com.oddev2.video15;
+package com.odev2.video15;
 
 public class Main {
 	//DIZILER ICIN ORNEK reCAP
